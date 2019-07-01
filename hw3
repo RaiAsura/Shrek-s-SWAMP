@@ -1,0 +1,3 @@
+Marks=35
+FullMarks=50
+print((int(Marks)/int(FullMarks))*100)
