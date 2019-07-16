@@ -1,0 +1,6 @@
+gr_list=[]
+itm=input("UR STUFF or Stop.")
+while itm!="Stop":
+  itm=input("UR STUFF or Stop.")
+  gr_list.append(itm)
+  print(gr_list)
